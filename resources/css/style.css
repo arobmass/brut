@@ -19,20 +19,13 @@ nav{
   padding-right: 10px;
 }
 
-input{
-  border: none;
-  padding-left: 10px;
-  width: 330px;
-}
+
 
 .nav-flex{
   padding: 20px;
 }
 
-#middle-search{
-  border-left: 1px solid lightgray;
-  border-right:1px solid lightgray;
-}
+
 
 #opener{
   font-weight: bold;
@@ -60,9 +53,6 @@ input{
 }
 
 @media only screen and (max-width: 768px){
-  #middle-search{
-    display: none;
-  }
 
   #right{
     display: none;
