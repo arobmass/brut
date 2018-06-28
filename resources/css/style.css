@@ -68,6 +68,12 @@ nav{
     width: 100% !important;
   }
 
+  .inside{
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+  }
+
 }
 
 #works{
